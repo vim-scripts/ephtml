@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=818
+
+Provides support for highlighting Perl inside html:
+
+    <ephtml> ... perl ... </ephtml>
+    <ep-comment> ...comment... </ep-comment>
+
